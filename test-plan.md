@@ -1,8 +1,10 @@
 # **Comprehensive Functional Test Plan for Knowledge Commons**
 
 **Document Version:** 0.1
+
 **Date:** November 26, 2025
-**Author:** IR Quality Assurance Team
+
+**Author:** Digital Initiatives 
 
 ## **1. Introduction**
 
