@@ -72,7 +72,7 @@ It includes both the user interface and machine-readable interfaces (OAI-PMH) of
 | **PUB-05** | Restricted Access Compliance | An Item or file has restricted access | 1. Attempt to access an Item with an embargo date in the future<br>2. Attempt to download a file with "Private" access | A "Request a copy of the document" or "Login Required" message is displayed. The file cannot be downloaded | Pass | Tessted to download ristriced documents when logged out, not allowing downloading as expected. |
 
 Addtional note:
-When searching with keyword, pervious site's result may contain the items in other languages whose translation matchs key word, but they won't show on the testing site. For example, when searching "international students -Lakehead", the previous site will show 11 resuult, while the testing site only show 9. The two extra results are in Spanish but matches the key word "student" after translation.(see details in image dspace-test-1.png) <mark>Is this expected?</mark>
+When searching with keyword, pervious site's result may contain the items in other languages whose translation matchs key word, but they won't show on the testing site. For example, when searching "international students -Lakehead", the previous site will show 11 resuult, while the testing site only show 9. The two extra results are in Spanish but matches the key word "student" after translation.(see details [here](/dspace-test-1.png)) <mark>Is this expected?</mark>
 
 
 ### **Module 2: User Submission & Workflow**
