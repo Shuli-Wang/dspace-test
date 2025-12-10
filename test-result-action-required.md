@@ -27,5 +27,5 @@ Example: **/items/13dea760-a9af-4f67-a713-4764f93f509d/full** vs **/items/3f9707
 Example: Searching "international students - Lakehead"<br>
 Previous site: 11 results<br>
 Testing site: 9 results<br>
-(The 2 missing items are in Spanish but contain translated metadata that matches the word “student.”)<br>
+The 2 missing items are in Spanish but contain translated metadata that matches the word “student.” see details [here](/dspace-test-1.png))<br>
 Is this expected behavior in the new version?<br>
