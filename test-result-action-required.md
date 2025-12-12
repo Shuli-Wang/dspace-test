@@ -2,11 +2,11 @@
 
 ### 1. Missing metadata field for ETD-MS List of Records (View details in Edit mode, or refer to [here](/dspace-test-2.png) )
 <description>...</description>
-<publisher>Lakehead University</publisher>
+***<publisher>Lakehead University</publisher>***
 <date>...</date>
 
 <language>...</language>
-<degree>
+***<degree>
       <name>Master of ...</name>
       <level>Master</level>
       <discipline>...</discipline>
@@ -14,7 +14,7 @@
 </degree>
   <identifier>TC-OPAL-...</identifier>
   <identifier>https://knowledgecommons.lakeheadu.ca/bitstream/2453/.../1/....pdf</identifier>
-  <format>application/pdf</format>
+  <format>application/pdf</format>***
 
 ### 2.  USER-01 - Password Reset: Reviewed on 25.12.12, can be ignored due to same credential with Lakehead Email.
 When entering a registered email on the “Forgot Password” page, the system displays an error pop-up:
